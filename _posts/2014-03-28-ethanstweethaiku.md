@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ethan 
-title: Ethan's Tweet
+title: Ethans Tweet
 date: 2014-03-28
 ---
 
